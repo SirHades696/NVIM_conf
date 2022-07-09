@@ -12,8 +12,6 @@ Plug 'scrooloose/nerdtree'
 Plug 'vim-airline/vim-airline'
 " Airline themes
 Plug 'vim-airline/vim-airline-themes'
-" Nord
-Plug 'arcticicestudio/nord-vim'
 " Better syntax-highlighting for filetypes in vim
 Plug 'sheerun/vim-polyglot'
 " Intellisense engine
@@ -22,14 +20,10 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'tpope/vim-fugitive'
 " Auto-close braces and scopes
 Plug 'jiangmiao/auto-pairs'
-" Adding Dracula theme
-Plug 'dracula/vim', { 'as': 'dracula' }
-" Adding catppuccin
-Plug 'catppuccin/nvim', {'as': 'catppuccin'}
 " Adding bars
 Plug 'kyazdani42/nvim-web-devicons'
 Plug 'romgrk/barbar.nvim'
-" Adding icos for nerdtree
+" Adding icons for nerdtree
 Plug 'ryanoasis/vim-devicons'
 " Adding tokyonight theme
 Plug 'folke/tokyonight.nvim', { 'branch': 'main' }

@@ -1,8 +1,5 @@
 " Theme for airline
 let g:airline_theme='deus'
-" Config theme for nvim 
-"let g:catppuccin_flavour = "mocha" " dusk, latte, frappe, macchiato, mocha
-"colorscheme catppuccin
+" Setting tokyonight
 colorscheme tokyonight
 let g:lightline = {'colorscheme': 'tokyonight'}
-"colorscheme dracula
