@@ -1,4 +1,15 @@
 # Configuración NVIM Linux
+## Screenshots
+
+![Screenshot](doc/1.png "Startify Personal Logo")
+
+![Screenshot](doc/2.png "Preview")
+
+![Screenshot](doc/3.png "Preview")
+
+![Screenshot](doc/4.png "Using CSS Color")
+
+![Screenshot](doc/5.png "Using Indent BlankLine")
 
 ## Requisitos
 
