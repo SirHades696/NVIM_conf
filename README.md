@@ -140,7 +140,6 @@ Para visualizar el color escrito en Hexa, RGB, etc.
 
 ## Neoclip
 
-Para tener conexión de clipboard entre Nvim y SO.
+Para tener conexión de clipboard entre Nvim y SO (Requiere de Cmake y Ninja para completar la instlación).
 
-* Disponible en: https://github.com/AckslD/nvim-neoclip.lua
-
+* Disponible en: https://github.com/matveyt/neoclip
