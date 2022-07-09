@@ -35,4 +35,5 @@ so ~/.vim/confthemes.vim
 so ~/.vim/poetv.vim
 so ~/.vim/python.vim
 so ~/.vim/indentconf.vim
-
+so ~/.vim/markdown.vim
+so ~/.vim/nerdcomment.vim
