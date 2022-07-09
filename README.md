@@ -13,6 +13,8 @@
 
 ## Requisitos
 
+Para instalar NVIM en root, es necesario crear los enlaces simbólicos correspondientes.
+
 * Instalar NodeJS
 * Instalar Yarn
 * Instalar Cmake
