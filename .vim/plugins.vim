@@ -43,4 +43,6 @@ Plug 'lukas-reineke/indent-blankline.nvim'
 Plug 'ap/vim-css-color'
 " For clipboard
 Plug 'matveyt/neoclip'
+" For gramar 
+Plug 'rhysd/vim-grammarous'
 call plug#end()

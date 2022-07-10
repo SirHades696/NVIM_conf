@@ -1,4 +1,5 @@
 # Configuración NVIM Linux
+
 ## Screenshots
 
 ![Screenshot](doc/1.png "Startify Personal Logo")
@@ -46,13 +47,13 @@ Permite moverse entre código bajo expresiones regulares usando el símbolo de %
 
 ## Nerdtree
 
-Visualizador de carpetas en forma de arbol (similar a VSC).
+Visualizador de carpetas en forma de árbol (similar a VSC).
 
 * Disponible en: https://github.com/preservim/nerdtree
 
 ## Vim Airline
 
-Agrega una barra inferior para mostar el modo que se encuentra activo en NVIM. Además, se pueden agregar configurar temas a esta barra.
+Agrega una barra inferior para mostrar el modo que se encuentra activo en NVIM. Además, se pueden agregar configurar temas a esta barra.
 
 * Disponible en: https://github.com/vim-airline/vim-airline
 * Disponible en: https://github.com/vim-airline/vim-airline-themes
@@ -86,7 +87,7 @@ Integrando GIT a NVIM, permite observar el comportamiento de GIT dentro de NVIM 
 
 ## Auto Pais
 
-Para detectar si se están cerrando corchetes, parentesis, etc.
+Para detectar si se están cerrando corchetes, paréntesis, etc.
 
 * Disponible en: https://github.com/windwp/nvim-autopairs
 
@@ -153,6 +154,12 @@ Para visualizar el color escrito en Hexa, RGB, etc.
 
 ## Neoclip
 
-Para tener conexión de clipboard entre Nvim y SO (Requiere de Cmake y Ninja para completar la instlación).
+Para tener conexión de clipboard entre Nvim y SO (Requiere de Cmake y Ninja para completar la instalación).
 
 * Disponible en: https://github.com/matveyt/neoclip
+
+## Grammarous
+
+Revisa la ortografía, es útil para los archivos README.
+
+* Disponible en: https://github.com/rhysd/vim-grammarous
