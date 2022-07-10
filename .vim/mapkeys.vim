@@ -36,4 +36,5 @@ nmap <Leader>zc :q!<CR>
 nmap <Leader>s <Plug>(easymotion-s2)
 nmap <Leader>f :/
 
-
+" For check grammar
+nmap <Leader>gs :GrammarousCheck --lang=es<CR>
