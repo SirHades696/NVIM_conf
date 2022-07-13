@@ -1,6 +1,6 @@
 " Setting nerdfont for show icons
 if exists(':GuiFont')
-    GuiFont! MesloLGS NF:h12
+    GuiFont! MesloLGS NF:h10
 endif
 set list
 set nocompatible
@@ -37,3 +37,4 @@ so ~/.vim/python.vim
 so ~/.vim/indentconf.vim
 so ~/.vim/markdown.vim
 so ~/.vim/nerdcomment.vim
+so ~/.vim/cocexplorer.vim

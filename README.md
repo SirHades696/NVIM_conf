@@ -76,6 +76,8 @@ Requiere:
 * coc-pyright
 * coc-json
 * coc-docker
+* coc-explorer
+* coc-tabnine
 
 * Disponible en: https://github.com/neoclide/coc.nvim
 

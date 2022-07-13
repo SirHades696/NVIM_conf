@@ -7,7 +7,7 @@ Plug 'scrooloose/nerdcommenter'
 " Switch to the begining and the end of a block by pressing %
 Plug 'tmhedberg/matchit'
 " A Tree-like side bar for better navigation
-Plug 'scrooloose/nerdtree'
+"Plug 'scrooloose/nerdtree'
 " A cool status bar
 Plug 'vim-airline/vim-airline'
 " Airline themes
