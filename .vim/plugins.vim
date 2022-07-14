@@ -25,8 +25,9 @@ Plug 'kyazdani42/nvim-web-devicons'
 Plug 'romgrk/barbar.nvim'
 " Adding icons for nerdtree
 Plug 'ryanoasis/vim-devicons'
-" Adding tokyonight theme
+" Adding themes
 Plug 'folke/tokyonight.nvim', { 'branch': 'main' }
+Plug 'kyoz/purify', { 'rtp': 'vim' }
 " Adding style to index
 Plug 'mhinz/vim-startify'
 " For fast search words
