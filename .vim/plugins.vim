@@ -42,8 +42,6 @@ Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
 Plug 'lukas-reineke/indent-blankline.nvim'
 " Colored CSS, HEXA, RGB
 Plug 'ap/vim-css-color'
-" For clipboard
-Plug 'matveyt/neoclip'
 " For gramar 
 Plug 'rhysd/vim-grammarous'
 call plug#end()

@@ -8,7 +8,7 @@ filetype off
 set number
 set mouse=a
 set numberwidth=1
-set clipboard^=unnamed,unnamedplus
+set clipboard+=unnamedplus
 syntax on
 syntax enable
 set showcmd
@@ -30,7 +30,7 @@ syntax on
 so ~/.vim/plugins.vim
 so ~/.vim/startify.vim
 so ~/.vim/mapkeys.vim
-so ~/.vim/nerdtree.vim
+" so ~/.vim/nerdtree.vim
 so ~/.vim/confthemes.vim
 so ~/.vim/poetv.vim
 so ~/.vim/python.vim

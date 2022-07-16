@@ -154,12 +154,6 @@ Para visualizar el color escrito en Hexa, RGB, etc.
 
 * Disponible en: https://github.com/ap/vim-css-color
 
-## Neoclip
-
-Para tener conexión de clipboard entre Nvim y SO (Requiere de Cmake y Ninja para completar la instalación).
-
-* Disponible en: https://github.com/matveyt/neoclip
-
 ## Grammarous
 
 Revisa la ortografía, es útil para los archivos README.
